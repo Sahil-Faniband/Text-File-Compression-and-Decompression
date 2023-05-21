@@ -1,5 +1,3 @@
-# Text-File-Compression-and-Decompression
-This project implements text file compression and decompression using Huffman coding.
 
 # Text File Compression and Decompression using Huffman Coding
 
@@ -13,7 +11,7 @@ This project implements text file compression and decompression using Huffman co
 - `unordered_map` header file
 
 ## Running the Code
-
+1.
 1. Compile the code using a C++ compiler.
 2. Run the compiled executable.
 3. Follow the prompts and instructions displayed on the console.
