@@ -35,8 +35,8 @@ The code consists of the following components:
 The code expects the following files:
 
 - `Text_File.txt`: Contains the input text to compress.
-- `Compressed_File.bin`: Stores the compressed binary representation of the input text.
-- `Decompressed_File.txt`: Outputs the decompressed text.
+- `Compressed_File.bin`: Creats Compressed binary file and Stores the compressed binary representation of the input text.
+- `Decompressed_File.txt`: Outputs the decompressed text file.
 
 ## Limitations
 
