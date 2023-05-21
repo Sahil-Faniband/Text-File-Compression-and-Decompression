@@ -49,4 +49,4 @@ The code is based on the principles of Huffman coding.
 
 ## Additional Notes
 
-You can change the text file name or a file in program if you want to compress other file,in this case file name is Text_File.txt.
+You can change the text file name or a file in program, if you want to compress other file, in this case file name is Text_File.txt.
