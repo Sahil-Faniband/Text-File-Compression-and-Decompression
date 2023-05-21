@@ -11,10 +11,11 @@ This project implements text file compression and decompression using Huffman co
 - `unordered_map` header file
 
 ## Running the Code
-1.
-1. Compile the code using a C++ compiler.
-2. Run the compiled executable.
-3. Follow the prompts and instructions displayed on the console.
+1. Save the files into same folder and open the folder in VS Code or any other compiler.
+2. Recommended to Download .zip file.
+3. Compile the code using a C++ compiler.
+4. Run the compiled executable.
+5. Follow the prompts and instructions displayed on the console.
 
 ## Code Structure
 
@@ -48,4 +49,4 @@ The code is based on the principles of Huffman coding.
 
 ## Additional Notes
 
-
+You can change the text file name or a file in program if you want to compress other file,in this case file name is Text_File.txt.
