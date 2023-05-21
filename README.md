@@ -34,7 +34,7 @@ The code consists of the following components:
 
 The code expects the following files:
 
-- `Text_File.txt`: Contains the input text to compress. ADD "end" KEY WORD IN THE FILE AT THE LAST LINE.
+- `Text_File.txt`: Contains the input text to compress. THE FILE SHOULD INCLUDE KEYWORD "end" AT THE END OF THE FILE WHICH INDICATE THAT                    IS THE END OF THE FILE AND THAT LINE IS NOT INCLUDED IN THE COMPRESSION OR DECOMPRESSION.
 - `Compressed_File.bin`: Creats Compressed binary file and Stores the compressed binary representation of the input text.
 - `Decompressed_File.txt`: Outputs the decompressed text file.
 
