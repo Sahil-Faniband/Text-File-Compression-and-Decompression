@@ -231,7 +231,7 @@ int main(){
         compressedText += codeTable[c];
     }
     ofstream compressedFile("Compressed_File.bin",ios::binary);
-    compressedFile.write((char *)&compressedText,sizeof(compressedText));
+    compressedFile.write(compressedText.c_str(), compressedText.size());
     compressedFile.close();
     cout<<"\nCompression Successful..!"<<endl;
     //cout<<"Compressed Text :"<<compressedText<<endl;
